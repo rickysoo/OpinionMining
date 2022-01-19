@@ -7,7 +7,10 @@ Just enter a keyword, and the tweets and analysis will show up instantly!
 This works originally in the Databricks environment - https://databricks.com  
 (It might not work in Databricks Community Edition)
 
-Just import the OpinionMining.dbc file into your Databricks environment and run it!
+1. Log into your Databricks account at https://databricks.com
+2. Install Spark NLP in your Databricks cluster as per https://nlp.johnsnowlabs.com/docs/en/install#databricks-support
+3. Import the ![OpinionMining.dbc file](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining.dbc) into your Databricks workspace.
+4. Have fun!
 
 ![Databricks notebook](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining3.png)
 
