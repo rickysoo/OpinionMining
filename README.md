@@ -13,6 +13,10 @@ To run in other environments such as Google Colab, comment/uncomment certain fra
 
 This works under the Databricks environment.
 
+Page 1
+
 ![Dashboard (page 1)](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining1.png)
+
+Page 2
 
 ![Dashboard (page 2)](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining2.png)
