@@ -5,7 +5,7 @@ Do you know what people are talking about a certain topic? Just enter a keyword,
 
 This works original in the Databricks environment. Just import the OpinionMining.dbc file into your Databricks environment.
 
-!(https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining3.png)
+![Databricks notebook](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining3.png)
 
 To run in other environments such as Google Colab, comment/uncomment certain fragments indicated in the code.
 
@@ -13,6 +13,6 @@ To run in other environments such as Google Colab, comment/uncomment certain fra
 
 This works under the Databricks environment.
 
-!(https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining1.png)
+![Dashboard (page 1)](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining1.png)
 
-!(https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining2.png)
+![Dashboard (page 2)](https://github.com/rickysoo/OpinionMining/raw/main/OpinionMining2.png)
