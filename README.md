@@ -2,7 +2,7 @@
 Do you want to know what people are talking about a certain topic at the moment?  
 Just enter a keyword, and the tweets and analysis will show up instantly!
 
-## The Backend - The Code
+## The Backend - Databricks Notebook
 
 This works originally in the Databricks environment - https://databricks.com  
 (It might not work in Databricks Community Edition)
